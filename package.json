@@ -1,0 +1,19 @@
+{
+  "name": "micha-el",
+  "version": "1.0.0",
+  "description": "Volunteer Management web application for Micha-el school.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanyagriego/Micha-el.git"
+  },
+  "author": "Tanya <tanya.griego@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanyagriego/Micha-el/issues"
+  },
+  "homepage": "https://github.com/tanyagriego/Micha-el#readme"
+}
