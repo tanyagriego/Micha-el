@@ -1,0 +1,16 @@
+.navigation li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 3px 0px;
+
+
+}
+
+.buttonContainer {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  clear: both;
+  height: 100vh;
+  animation: fadein 1.5s;
+}
